@@ -1,9 +1,3 @@
-# DEPRECATED
-
-Gap-card is now included in [layout-card](https://github.com/thomasloven/lovelace-layout-card)
-
----
-
 gap-card
 ========
 
